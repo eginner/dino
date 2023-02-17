@@ -24,7 +24,7 @@ function jump () {
 
     setTimeout(function(){
         dino.classList.remove("jump")
-    },800)
+    },1200)
 }
 
 let i = 0
