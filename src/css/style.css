@@ -61,7 +61,7 @@
   }
 }
 .jump {
-          animation: jump 0.8s linear;
+          animation: jump 1.2s linear;
 }
 
 /* @-webkit-keyframes jump {
