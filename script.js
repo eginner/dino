@@ -47,7 +47,7 @@ let isAlive = setInterval(function(){
         alert(i)
          setTimeout(function(){
             window.location.reload()
-        },800) 
+        },1600) 
 
        /*  alert('papapa') */
     }
