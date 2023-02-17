@@ -2,6 +2,14 @@ const dino = document.getElementById("dino");
 const block = document.querySelector ('.block');
 const cactus = document.querySelector ('.cactus');
 
+document.addEventListener("touchstart", function(event) {
+
+    if(dino.className !== "jump"){
+        jump();
+    }
+    
+})
+
 document.addEventListener("keydown", function(event) {
 
     if(dino.className !== "jump"){
