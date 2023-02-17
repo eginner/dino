@@ -23,8 +23,8 @@
   position: relative;
   top: 63px;
   left: 580px;
-  -webkit-animation: moving 1.0s infinite linear;
-          animation: moving 1.0s infinite linear;
+  -webkit-animation: moving 2.0s infinite linear;
+          animation: moving 2.0s infinite linear;
 }
 .cactus img {
   height: 90px;
